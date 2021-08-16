@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="origin"
+	   fetch="//git@github.com:"
+           review="git@github.com:" />
+  <default revision="master"
+           remote="origin"
+           sync-j="4" />
+
+  <project path="itoken" name="zhengqirong/open.git" revision="main"/>
+</manifest>
