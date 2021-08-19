@@ -8,5 +8,5 @@
            remote="origin"
            sync-j="4" />
 
-  <project path="itoken" name="zhengqirong/open.git" revision="main"/>
+  <project path="workspace/open" name="zhengqirong/open.git" revision="main"/>
 </manifest>
